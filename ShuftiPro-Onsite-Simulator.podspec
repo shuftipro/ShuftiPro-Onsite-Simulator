@@ -20,8 +20,7 @@ spec.platform     = :ios, "11.0"
 
 spec.source       = { :git => "https://github.com/shuftipro/ShuftiPro-Onsite-Simulator.git", :tag => "#{spec.version}" }
 
-  spec.ios.vendored_frameworks = 'ShuftiPro.framework'
-  spec.dependency 'Starscream'
+  spec.ios.vendored_frameworks = 'ShuftiPro.xcframework'
   spec.swift_version = "5"
 
 end
