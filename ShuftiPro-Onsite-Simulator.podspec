@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
 spec.name         = "ShuftiPro-Onsite-Simulator"
-spec.version      = "1.1.21"
+spec.version      = "1.1.22"
 spec.summary      = "Shufti Pro is designed to verify documents in realtime."
 
 spec.description  = <<-DESC
